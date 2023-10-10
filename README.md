@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deekshithns01&label=Profile%20views&color=0e75b6&style=flat" alt="deekshithns01" /> </p>
 
+- 🌱 I have completed a **Software Testing course**
 - 🌱 I’m currently learning **Web developing**
 
 <h3 align="left">Connect with me:</h3>
